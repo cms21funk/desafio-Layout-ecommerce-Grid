@@ -67,7 +67,7 @@ body {
     .nav ul {
         display: none;
         flex-direction: column;
-        background-color: black;
+        background-color: blue;
         padding: 1rem;
         position: absolute;
         top: 100%;
